@@ -35,7 +35,7 @@ colored according to the nature of the statement:
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'console_coloration'
+gem 'console-coloration'
 ```
 
 And then execute:
@@ -44,7 +44,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install console_coloration
+    $ gem install console-coloration
 
 ## Usage
 
